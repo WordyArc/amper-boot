@@ -8,4 +8,4 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓███████▓▒░ ░▒▓██████▓▒░ ░▒▓██████▓▒░  ░▒▓█▓▒░
 
 
-:: Built with Spring Boot :: ${spring-boot.version}
+${AnsiColor.GREEN}:: Built with Spring Boot ::${AnsiColor.DEFAULT} ${spring-boot.version}
