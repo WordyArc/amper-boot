@@ -6,7 +6,7 @@ product:
 settings:
   springBoot:
     enabled: true
-    version: 3.5.3
+    version: 3.5.7
   jvm:
     release: 21
     mainClass: dev.amper.boot.Application
