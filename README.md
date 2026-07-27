@@ -2,8 +2,6 @@
 
 Amper Boot is a template for quickly starting a Spring Boot project using the JetBrains Amper build system.
 
-With it you don’t have to dig into bulky Maven XML configurations or rewrite complex Gradle scripts: just clone the repository and run a couple of commands.
-
 ## Why Amper?
 
 - **Simple configuration.** Unlike Maven’s bulky XML and Gradle’s complex DSL, Amper uses an intuitive YAML format.
@@ -21,7 +19,7 @@ With it you don’t have to dig into bulky Maven XML configurations or rewrite c
 
 - JetBrains Amper version ≥ 0.7.0
 - Java Development Kit (JDK) version ≥ 17
-- IntelliJ IDEA 2025.1.2 Preview or later (recommended)
+- IntelliJ IDEA 2025.1.2 Preview or later
 
 ## Quick Start
 
